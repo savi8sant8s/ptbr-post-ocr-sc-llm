@@ -1,0 +1,12 @@
+symspellpy
+autocorrect
+pandas
+noisocr
+editdistance
+ludwig[llm]
+vllm
+transformers
+accelerate
+bitsandbytes
+torch
+datasets
