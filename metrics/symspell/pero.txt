@@ -1,0 +1,5 @@
+CER - baseline : 2.87%
+WER - baseline : 9.39%
+CER - corrector: 3.36%
+WER - corrector: 11.07%
+    
